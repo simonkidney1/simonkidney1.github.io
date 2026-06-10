@@ -48,7 +48,7 @@ table { width:100%; table-layout: fixed; border-collapse: collapse; margin-top: 
 
 table, th, td {width: 100%; padding: 10px; text-align: left; border: 1px solid #ddd; }
 
-th { background-color: darkgreen; color: Green; padding: 10px; }
+th { background-color: darkgreen; color: White; padding: 10px; }
 
 td { padding: 10px;}
 
